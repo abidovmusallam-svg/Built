@@ -1,0 +1,6 @@
+{
+  "name": "QurilishBozor",
+  "description": "O'zbekistondagi zamonaviy qurilish mollari bozori va ko'p sotuvchili platforma (B2B/B2C marketplace).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
